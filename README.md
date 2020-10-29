@@ -8,7 +8,7 @@ Please follow the instruction guide on https://github.com/open-mmlab/mmdetection
 
 
 # Quick Demo
-If you want to test with your image, download the one of the pretrained weights from the below link and save to the MODEL_PATH. And assume that the image is placed at IMG_PATH. And run the following command.
+If you want to test with your image, download the one of the pretrained weights of any model (e.g. Deformable Convolution) from the [link](https://keiojp0-my.sharepoint.com/:u:/g/personal/ryo-hachiuma_keio_jp/EcjiVmBnq4xEo-1cZQrTjHkBHpo_MqRMlzFZaWrHE2ts4A?e=3KQutX) and save to the MODEL_PATH. And assume that the image is placed at IMG_PATH. And run the following command.
 ```
 python demo/image_demo.py IMG_PATH configs/feet/deform_low.py MODEL_PATH 
 ```
