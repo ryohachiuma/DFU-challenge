@@ -25,7 +25,7 @@ python tools/train.py configs/feet/cascade.py
 python tools/train.py configs/feet/pisa.py
 ```
 
-The pretrained models can be downloaded from the link (https://keiojp0-my.sharepoint.com/:f:/g/personal/ryo-hachiuma_keio_jp/EqttPiOf3C9DtC5FHZW2qPgB-XpBhjLKDhWPS3RVyY8hiQ?e=eR1MEf)
+The pretrained models can be downloaded from the [link](https://keiojp0-my.sharepoint.com/:f:/g/personal/ryo-hachiuma_keio_jp/EqttPiOf3C9DtC5FHZW2qPgB-XpBhjLKDhWPS3RVyY8hiQ?e=eR1MEf)
 
 # Testing models
 ```
