@@ -3,8 +3,8 @@ This repository is for DFU challenge (https://dfu2020.grand-challenge.org/evalua
 
 
 
-This repository is based on mmdetection (https://github.com/open-mmlab/mmdetection).
-Please follow the instruction guide on https://github.com/open-mmlab/mmdetection/blob/master/docs/install.md
+This repository is based on [mmdetection](https://github.com/open-mmlab/mmdetection).
+Please follow the instruction guide on [installation](https://github.com/open-mmlab/mmdetection/blob/master/docs/install.md)
 
 
 # Quick Demo
